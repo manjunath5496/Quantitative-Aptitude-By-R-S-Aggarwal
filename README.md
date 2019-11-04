@@ -1,1 +1,4 @@
-# Quantitative-Aptitude-By-R.-S.-Aggarwal
+<h2>Quantitative Aptitude By R. S. Aggarwal </h2>
+
+<p>The <strong>Civil Services Examination</strong> (CSE) is a nationwide competitive examination in India conducted by the <strong>Union Public Service Commission</strong> for recruitment to various Civil Services of the Government of India, including the Indian Administrative Service (IAS), Indian Foreign Service (IFS), and Indian Police Service (IPS). This being one of the most competitive exams needs through preparation.&nbsp;<strong>Quantitative Aptitude By R. S. Aggarwal</strong> is more comprehensive than ever before with more than 5500 questions (supported with answers and solutions&mdash;a hallmark of Quantitative Aptitude). Chapters begin with easy-to-grasp theory complemented by formulas and solved examples. They are followed by a wide-ranging number of questions for practice.</p>
+<p>&nbsp;</p>
